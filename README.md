@@ -1,5 +1,6 @@
-<h4 style="color:white"> - 👋 Hi, I’m @JoJoTheGqmer
-- 👀 I’m interested in Gaming and Programming
+<h4 style="color:white">
+- 👋 Hi, I’m @JoJoTheGqmer
+\n - 👀 I’m interested in Gaming and Programming
 - 📖 I’m currently learning Javascript, HTML and CSS
 - 📫 You can reach me in discord - <b>JoJo#6380</b>
 </h4>

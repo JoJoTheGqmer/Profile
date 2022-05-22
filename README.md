@@ -1,8 +1,8 @@
-<h4 style="color:white">
+<p style="color:white">
 - 👋 Hi, I’m @JoJoTheGqmer
-\n - 👀 I’m interested in Gaming and Programming
-- 📖 I’m currently learning Javascript, HTML and CSS
-- 📫 You can reach me in discord - <b>JoJo#6380</b>
+<br>- 👀 I’m interested in Gaming and Programming
+<br>- 📖 I’m currently learning Javascript, HTML and CSS
+<br>- 📫 You can reach me in discord - <b>JoJo#6380</b>
 </h4>
 <!---
 JoJoTheGqmer/JoJoTheGqmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

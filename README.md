@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-<Html><Body style="background-color:black></Body></Html>
+<Html><Body style="background-color:black"></Body></Html>
 
 
 <h1> My Skill Set </h1>

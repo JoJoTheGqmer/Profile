@@ -3,7 +3,7 @@
 <br>- 👀 I’m interested in Gaming and Programming
 <br>- 📖 I’m currently learning Javascript, HTML and CSS
 <br>- 📫 You can reach me in discord - <b>JoJo#6380</b>
-</h4>
+</p>
 <!---
 JoJoTheGqmer/JoJoTheGqmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

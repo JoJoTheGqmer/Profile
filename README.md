@@ -76,11 +76,12 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://media.discordapp.net/attachments/851384031856820228/977822894740619354/Invited_to_join_JoJos_Gaming.jpg" /></div>  
+<div align="center"> <a href="https://dsc.gg/jojosgaming" target="_blank"> <img src="https://media.discordapp.net/attachments/851384031856820228/977822894740619354/Invited_to_join_JoJos_Gaming.jpg" />
+</a></div>  
 
 <br/>  
 
-<div align="center"> <a href="https://instagram.com/JoJoTheGqmer" target="_blank">
+<div align="center"> <a href="https://github.com/JoJoTheGqmer" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=JoJoTheGqmer&&style=flat-square" align="center" />
 </a></div>  
   

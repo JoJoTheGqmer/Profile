@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-<Html><Body style="background-color:black color:white"></Body></Html>
+<Html><Body style="background-color:black></Body></Html>
 
 
-## My Skill Set  
+<h1> My Skill Set </h1>
 <table><tr><td valign="top" width="33%">
 
 

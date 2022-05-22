@@ -76,7 +76,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://media.discordapp.net/attachments/851384031856820228/977822894740619354/Invited_to_join_JoJos_Gaming.jpg" /></div>  
+<div align="center"><img href="https://instagram.com/JoJoTheGqmer" src="https://media.discordapp.net/attachments/851384031856820228/977822894740619354/Invited_to_join_JoJos_Gaming.jpg" /></div>  
 
 <br/>  
 

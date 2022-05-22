@@ -82,7 +82,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"> <a href="https://instagram.com/JoJoTheGqmer" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=JoJoTheGqmer&&style=flat-square" align="center" />
-</div>  
+</a></div>  
   
 
 <br/>  

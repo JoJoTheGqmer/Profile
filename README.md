@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Discord Server
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<p style="color:white"> Join as on our Discord Server</p>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  

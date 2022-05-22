@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @JoJoTheGqmer
+- 👋 Hi, I’m @JoJoTheGqmer
 - 👀 I’m interested in Gaming and Programming
 - 📖 I’m currently learning Javascript, HTML and CSS
 - 📫 You can reach me in discord - **JoJo#6380**

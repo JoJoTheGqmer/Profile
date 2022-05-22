@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Backend  
+<h2 style="color:white"> Backend </h2>  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />

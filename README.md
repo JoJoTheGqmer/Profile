@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Discord Server
 <!-- BLOG-POST-LIST:START -->  
-<p style="color:white"> Join us on our Discord Server</p>
+<p style="color:white"> Join us on our Discord Server!</p>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
